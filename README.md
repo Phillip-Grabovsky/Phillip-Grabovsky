@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Phillip-Grabovsky
-- 👀 I’m studying theoretical CS and math, and very interested in music and game development.
+- 👀 I’m studying CS and math, and very interested in music and game development.
 
 <!---
 Phillip-Grabovsky/Phillip-Grabovsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
